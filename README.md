@@ -56,7 +56,7 @@ CertChain-DApp/
 
 Yêu cầu duy nhất: cài **[Node.js 18 trở lên](https://nodejs.org)**.
 
-1. Tải mã nguồn: `git clone <link-repo>` hoặc **Code → Download ZIP** rồi giải nén.
+1. Tải mã nguồn: `git clone https://github.com/macdatttttttttttttttt/CertChain-DApp.git` hoặc **Code → Download ZIP** rồi giải nén.
 2. Chạy:
    * **Windows:** nhấp đúp tệp **`start.bat`**
    * **macOS / Linux:** `./start.sh` (hoặc `npm run demo`)
