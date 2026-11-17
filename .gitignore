@@ -1,0 +1,13 @@
+node_modules
+.next
+artifacts
+cache
+coverage
+coverage.json
+typechain-types
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+npm-install.log
+.logs
+.env
